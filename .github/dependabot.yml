@@ -11,6 +11,6 @@ updates:
       interval: "daily"
 
   - package-ecosystem: "docker"
-    directory: "/" 
+    directory: "./src/RazorPagesTestSample" 
     schedule:
       interval: "daily"
