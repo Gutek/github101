@@ -1,4 +1,4 @@
-# sample-dotnet-app
+# sample-dotnet-app saadsasdasd
 
 Please do not work on this directory directly (only fixes are allowed). This repo should be used as a template repository to create new ones on which we can practice GitHub configuration, actions etc.
 
