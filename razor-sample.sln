@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RazorPagesTestSample", "src
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RazorPagesTestSample.Tests", "tests\RazorPagesTestSample.Tests\RazorPagesTestSample.Tests.csproj", "{ADD8CE1C-754C-4D3C-AFA5-9F2F18E952CC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modulos", "src\Modulos\Modulos.csproj", "{3432BA8B-EF0B-400B-91CF-60AFFE176F5B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modulos", "src\Modulos\Modulos1.csproj", "{3432BA8B-EF0B-400B-91CF-60AFFE176F5B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
